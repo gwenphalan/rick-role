@@ -1,0 +1,13 @@
+/* center everything on the page vertically and horizontally, set background color to black */
+html, body {
+    height: 100%;
+    background-color: #000;
+}
+
+/* center trollFace image vertically and horizontally */
+#trollFace {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
