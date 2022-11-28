@@ -5,7 +5,7 @@ html, body {
 }
 
 /* center trollFace image vertically and horizontally */
-#trollFace {
+#troll {
     position: absolute;
     top: 50%;
     left: 50%;
